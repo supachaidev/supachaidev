@@ -1,4 +1,4 @@
 - 👋 Hi, my name is Supachai.
 - 👀 I’m interested in functional programming and data-oriented programming.
-- 🖥 My tech stack: React | TypeScript | JavaScript | Next.js | Tailwind CSS | Firebase
+- 🖥 The language of choices: TypeScript
 - 📫 contact@supachai.dev
