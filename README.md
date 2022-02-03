@@ -1,4 +1,4 @@
-**Software Developer**
+### Software Developer
 
 Building websites with **great UX** using [Remix](https://remix.run) 💿
 
