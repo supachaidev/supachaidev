@@ -2,3 +2,5 @@
 
 - Tech Stacks: Remix | React | Tailwind CSS
 - Languages: TypeScript
+
+Contacts: Twitter DM [@supachaihimself](https://twitter.com/supachaihimself)
