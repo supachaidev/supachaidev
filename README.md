@@ -1,4 +1,6 @@
-- 👋 Hi, my name is Supachai.
-- 👀 I’m interested in functional programming and data-oriented programming.
-- 🖥 The language of choices: TypeScript
-- 📫 contact@supachai.dev
+**Software Developer**
+
+Building websites with **great UX** using [Remix](https://remix.run) 💿
+
+- Tech Stacks: Remix | React | Tailwind CSS
+- Languages: TypeScript
